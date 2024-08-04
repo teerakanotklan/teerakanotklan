@@ -4,7 +4,7 @@ Hi 👋 My name is Teerakan Otklan
 Officer IT
 ----------
 
-I've learning Network Engineer for 1 year
+I've learning Network Engineer
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [teerakan.otk@gmail.com](mailto:teerakan.otk@gmail.com)
